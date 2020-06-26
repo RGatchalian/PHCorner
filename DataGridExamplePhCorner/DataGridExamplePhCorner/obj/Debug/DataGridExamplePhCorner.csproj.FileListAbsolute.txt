@@ -1,0 +1,10 @@
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\bin\Debug\DataGridExamplePhCorner.exe.config
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\bin\Debug\DataGridExamplePhCorner.exe
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\bin\Debug\DataGridExamplePhCorner.pdb
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\obj\Debug\DataGridExamplePhCorner.csprojAssemblyReference.cache
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\obj\Debug\DataGridExamplePhCorner.Form1.resources
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\obj\Debug\DataGridExamplePhCorner.Properties.Resources.resources
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\obj\Debug\DataGridExamplePhCorner.csproj.GenerateResource.cache
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\obj\Debug\DataGridExamplePhCorner.exe
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\obj\Debug\DataGridExamplePhCorner.pdb
+C:\Users\reyda\Source\Repos\DataGridExamplePhCorner\DataGridExamplePhCorner\obj\Debug\DataGridExamplePhCorner.Form2.resources
